@@ -1,4 +1,4 @@
-# K-Nearest Neighbors Classification Optimizing Model Performance with Varying k Values
+# K-Nearest Neighbors Classification: Optimizing Model Performance with Varying k Values
 
 ## Project Overview
 In this project, we use the k-Nearest Neighbors (k-NN) algorithm to classify data based on various input features. The dataset contains several continuous features, and the goal is to predict the target class (binary classification). This project demonstrates how changing the number of neighbors (k) affects model performance and helps determine the optimal number for prediction accuracy.
